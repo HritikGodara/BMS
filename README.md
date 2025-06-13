@@ -51,6 +51,9 @@ A simple **Bank Management System** built in C++ for learning purposes. This con
 - **Name:** Hritik G Bishnoi
 - **Email:** hritik.godara114@gmail.com
 
+- **Name:** Tirumala Sri Ampolu
+- **Email:** tirumalasriampolu@gmail.com
+
 ---
 
 > This project demonstrates how basic C++ concepts and data structures can be applied to build a simple real-world application.
