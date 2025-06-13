@@ -48,9 +48,8 @@ A simple **Bank Management System** built in C++ for learning purposes. This con
 
 ## 👨‍💻 Author
 
-- **Name:** [Your Name]
-- **Email:** [your.email@example.com]
-- **GitHub:** [your-github-username](https://github.com/your-github-username)
+- **Name:** Hritik G Bishnoi
+- **Email:** hritik.godara114@gmail.com
 
 ---
 
