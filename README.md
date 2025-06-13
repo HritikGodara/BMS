@@ -46,7 +46,7 @@ A simple **Bank Management System** built in C++ for learning purposes. This con
 
 ![Screenshot](assets/screenshot_1.png)
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 - **Name:** Hritik G Bishnoi
 - **Email:** hritik.godara114@gmail.com
