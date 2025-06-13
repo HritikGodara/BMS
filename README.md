@@ -45,9 +45,7 @@ A simple **Bank Management System** built in C++ for learning purposes. This con
 ## 🖼️ Screenshots
 
 Add your screenshot here:
-```markdown
-![Screenshot](screenshot.png)
-```
+![Screenshot](assets/screenshot_1.png)
 
 ## 👨‍💻 Author
 
